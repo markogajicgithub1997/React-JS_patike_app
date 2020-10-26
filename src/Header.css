@@ -1,0 +1,62 @@
+.Header {
+    background-color: black;
+    display:flex;
+    flex-direction: row;
+    border-bottom: 2px solid white;
+}
+
+.HeaderLi {
+    color:white;
+    padding:0px
+    
+}
+
+.HeaderUl {
+    display: flex;
+    list-style: none;
+    margin:0;
+    align-items: center;
+    padding:0px;
+    width: 95%;
+}
+
+.HeaderLi {
+    padding:0px 30px;
+    border-right: 1px solid white; 
+    border-left: 1px solid white;
+}
+
+.HeaderLi:first-child{
+    border-left:0;
+}
+
+.HeaderLi:last-child{
+    border-right: 0;
+}
+
+.HeaderUl2 {
+    margin:0px;
+    padding:0px;
+    
+    
+}
+
+.HeaderLiCart {
+    margin:10px 0px;
+    padding:0px;
+    border-left: 2px solid white;
+    padding:0px 5px;
+    
+}
+
+.HeaderLink {
+    color:white;
+    text-decoration: none;
+    flex:1;
+    text-transform: uppercase;
+    font-size: 32px;
+    font-weight: 400;
+    padding-left:7px;
+}
+
+

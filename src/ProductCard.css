@@ -1,0 +1,13 @@
+.ProductCardH {
+    text-transform: uppercase;
+}
+
+.ProductCardLink {
+    text-decoration: none;
+    color:black;
+}
+
+.ProductCardButton {
+    padding:3px 8px;
+    margin:7px 0px;
+}

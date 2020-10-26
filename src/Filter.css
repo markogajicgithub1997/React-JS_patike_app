@@ -1,0 +1,31 @@
+
+
+.filter {
+    text-align: center;
+    background-color: rgb(199, 72, 72);
+}
+
+.form {
+    padding:10px 0px;
+}
+
+.input {
+    width:50%;
+    height:25px;
+    border:2px solid black;
+    background-color: rgb(237, 238, 232);
+}
+
+.button {
+    cursor: pointer;
+    height:31px;
+    margin:0px 5px;
+    background-color:black;
+    color:white;
+    border:1px solid rgb(237, 238, 232);
+    border-radius: 15%;
+}
+
+.searchIcon {
+    margin:0px 3px;
+}

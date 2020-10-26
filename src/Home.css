@@ -1,0 +1,34 @@
+.homee {
+    background-color: black;
+}
+
+.home {
+    padding:10px 10px;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.product-card {
+    width:18.5%;
+    text-align: center;  
+    align-items: center;
+    justify-content: center;
+    margin:10px 0px;
+    background-color: rgb(237, 238, 232);
+    border:1px solid rgb(199, 72, 72);
+    border-radius: 7%;
+}
+
+
+
+.text {
+    flex:0 0 100%;
+    text-align: center;
+    color:white;
+}
+
+.homeFilter {
+    border-bottom: 2px solid rgb(175, 169, 169);
+}
